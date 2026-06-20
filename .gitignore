@@ -1,0 +1,9 @@
+*.class
+/build/
+/dist/
+/logs/
+/nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+*.log
+*.bak
